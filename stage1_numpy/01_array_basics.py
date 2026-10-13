@@ -66,6 +66,7 @@ def main():
     zeros_2d = np.zeros((3, 4))
     print(f"np.zeros((3,4)) shape = {zeros_2d.shape}")
 
+    # np.ones((2, 3)) 的含义是创建一个全为 1 的数
     ones = np.ones((2, 3))
     print(f"np.ones((2,3)) =\n{ones}")
 
